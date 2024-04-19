@@ -1,4 +1,4 @@
-﻿namespace NotMuch.MediaServer;
+﻿namespace NotMuch.MediaServer.Enums;
 
 public enum ProtocolType
 {
